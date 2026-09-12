@@ -2,71 +2,96 @@
 
 # Anthony Portugal
 
-### Software Engineer · Tech Lead · Frontend Architect
+<!-- Typing SVG Animation -->
+<a href="https://github.com/anthonyportugal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=CBA6F7&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Frontend+Architect;Linux+%26+Developer+Experience+Enthusiast;Building+Scalable+Design+Systems;Automation+%26+Modular+Systems+Craftsman" alt="Typing SVG" />
+</a>
 
-Frontend engineer from Peru building maintainable products and the systems that help teams ship with confidence.
+<p>
+  <strong>Software Engineer & Frontend Architect</strong> building resilient web platforms, scalable UI systems, and developer tooling.
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruceeanthonyportugalrobles/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyportugalrobles@gmail.com)
-[![Location](https://img.shields.io/badge/Peru-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Peru)
 
 </div>
 
-<p align="center">
-  <strong>Architecture</strong> · <strong>Developer Experience</strong> · <strong>Delivery Automation</strong>
-</p>
+---
 
-Currently working on frontend SSR at CSTI Corp · Previously Tech Lead at FractalUp
+### 💡 Core Focus & Engineering Philosophy
 
-## Selected impact
+- 🏛️ **Frontend Architecture & Technical Leadership:** Proven experience architecting large-scale applications using Clean Architecture, SOLID principles, SSR, and design system governance.
+- ⚙️ **Systems & Developer Tooling:** Strong focus on Linux environments, POSIX/Bash automation, reproducible configurations, and developer experience (DX) workflows.
+- 🚀 **Delivery & Automation:** Designing continuous integration pipelines and automated systems that allow engineering teams to ship with confidence and minimal friction.
+
+---
+
+### 📊 Production Impact
 
 <div align="center">
 
-<table>
+<table align="center" style="margin: 0 auto; display: inline-table; width: auto;">
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/30%25_less-technical_debt-16a34a?style=for-the-badge" alt="30 percent less technical debt"><br><sub>Clean Architecture + SOLID</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/80%25_faster-deployments-2563eb?style=for-the-badge" alt="80 percent faster deployments"><br><sub>Bash + GitLab CI/CD</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/30%25_less-technical_debt-a6e3a1?style=for-the-badge" alt="30 percent less technical debt"><br><sub>Clean Architecture + SOLID</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/80%25_faster-deployments-89b4fa?style=for-the-badge" alt="80 percent faster deployments"><br><sub>Bash + GitLab CI/CD Automation</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/40%25_faster-frontend_delivery-9333ea?style=for-the-badge" alt="40 percent faster frontend delivery"><br><sub>Design System + Design Ops</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/30%25_better-UI_response-f97316?style=for-the-badge" alt="30 percent better UI response"><br><sub>Vue/TypeScript refactoring</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/40%25_faster-frontend_delivery-cba6f7?style=for-the-badge" alt="40 percent faster frontend delivery"><br><sub>Design System + Design Ops</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/30%25_better-UI_response-fab387?style=for-the-badge" alt="30 percent better UI response"><br><sub>Vue / TypeScript Refactoring</sub></td>
   </tr>
 </table>
 
 </div>
 
-## What I work on
+---
 
-| 🧩 Architecture | ⚡ Delivery | 🛠 Developer experience |
-| --- | --- | --- |
-| Modular systems, Clean Architecture, SOLID, and design patterns. | CI/CD, Linux, Bash automation, and reliable development workflows. | Design systems, documentation, mentoring, and technical standards. |
+### 🐧 Open-Source & Linux Ecosystem
 
-## Toolbox
+My personal suite of modular, reproducible desktop environments and system tooling:
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD">
+| Project | Description | Tech / Stack |
+| :--- | :--- | :--- |
+| [**dotfiles**](https://github.com/anthonyportugal/dotfiles) | Autonomous, modular, and declarative base dotfiles ecosystem for Arch Linux. Manages user-space environments via GNU Stow, POSIX scripts, and an interactive CLI orchestrator. | `GNU Stow` `Bash` `FZF` `Git` |
+| [**dotfiles-mangowm**](https://github.com/anthonyportugal/dotfiles-mangowm) | Minimal, dynamic tiling Wayland desktop session for Arch Linux based on MangoWM. Functions standalone or composed with the primary dotfiles ecosystem. | `Wayland` `MangoWM` `Waybar` `Bash` |
+| [**dotfiles-bspwm**](https://github.com/anthonyportugal/dotfiles-bspwm) | Minimal, ergonomic X11 tiling desktop session for Arch Linux based on BSPWM. Functions standalone or composed with the primary dotfiles ecosystem. | `X11` `BSPWM` `sxhkd` `Polybar` |
+| [**dotfiles-system**](https://github.com/anthonyportugal/dotfiles-system) | Modular, reproducible, and non-destructive system-level configurations and theming for Arch Linux (Ly display manager & Limine bootloader). | `Limine` `Ly` `Systemd` `Bash` |
+
+<details>
+  <summary>🖼️ <strong>Preview Wayland desktop setup (MangoWM)</strong></summary>
+  <br />
+  <div align="center">
+    <a href="https://github.com/anthonyportugal/dotfiles-mangowm">
+      <img src="https://raw.githubusercontent.com/anthonyportugal/dotfiles-mangowm/main/assets/screenshot.webp" alt="MangoWM Desktop Preview" width="85%" style="border-radius: 8px;" />
+    </a>
+    <p><em>Dynamic Wayland session powered by MangoWM and custom automation scripts.</em></p>
+  </div>
+</details>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Architecture & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,astro,vite,tailwind,flutter,dart&perline=10" alt="Frontend & Mobile Skills" />
 </p>
 
-## Now
+#### Systems, Automation & Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github,gitlab,docker,go,vscode&perline=10" alt="Systems & Tools" />
+</p>
 
-- Refining my Linux dotfiles and Bash workflow.
-- Building small, focused projects around frontend architecture and developer tooling.
-- Preparing a personal website to document what I learn and build.
+---
 
-## Connect
-
-Interested in scalable frontend systems, thoughtful engineering, or technical leadership? Let's [connect on LinkedIn](https://www.linkedin.com/in/bruceeanthonyportugalrobles/) or [send me an email](mailto:anthonyportugalrobles@gmail.com).
+### 📈 GitHub Activity
 
 <div align="center">
 
-<sub>Building in public, one useful system at a time.</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyportugal&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4" alt="GitHub Streak Stats" />
 
 </div>
+
+---
+
+### 📬 Connect
+
+Interested in frontend architecture, design systems, or developer tooling? Let's connect on [LinkedIn](https://www.linkedin.com/in/bruceeanthonyportugalrobles/).
