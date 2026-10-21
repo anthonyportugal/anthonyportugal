@@ -2,27 +2,44 @@
 
 # Anthony Portugal
 
-<!-- Typing SVG Animation -->
-<a href="https://github.com/anthonyportugal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=CBA6F7&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Frontend+Architect;Linux+%26+Developer+Experience+Enthusiast;Building+Scalable+Design+Systems;Automation+%26+Modular+Systems+Craftsman" alt="Typing SVG" />
+<a href="https://anthonyportugal.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1400&color=9BC1FB&center=true&vCenter=true&width=640&lines=I+design+systems+that+teams+can+build+on.;Software+engineer+%C2%B7+Frontend+architect;Creator+of+Sanctuary%2C+a+design+system;Tokens+from+the+browser+to+the+terminal;Tech+lead+%C2%B7+Linux+%26+DX+craftsman" alt="I design systems that teams can build on. Software engineer, frontend architect, creator of Sanctuary." />
 </a>
 
-<p>
-  <strong>Software Engineer & Frontend Architect</strong> building resilient web platforms, scalable UI systems, and developer tooling.
-</p>
+Software engineer from Peru with 7+ years across frontend and backend.<br />
+I lead teams, build design tokens and component libraries, and ship multiplatform products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anthonyportugal.github.io-cba6f7?style=for-the-badge&logo=googlechrome&logoColor=1e1e2e)](https://anthonyportugal.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruceeanthonyportugalrobles/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anthonyportugal.github.io-9bc1fb?style=for-the-badge&labelColor=0d111b&logo=astro&logoColor=eee7d9)](https://anthonyportugal.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6bcdf7?style=for-the-badge&labelColor=0d111b&logo=linkedin&logoColor=eee7d9)](https://www.linkedin.com/in/bruceeanthonyportugalrobles/)
+[![Sanctuary](https://img.shields.io/badge/Sanctuary-Design_system-f6af57?style=for-the-badge&labelColor=0d111b&logo=github&logoColor=eee7d9)](https://github.com/sanctuary-ds)
 
 </div>
 
 ---
 
-### 💡 Core Focus & Engineering Philosophy
+### ⛪ Featured · Sanctuary
 
-- 🏛️ **Frontend Architecture & Technical Leadership:** Proven experience architecting large-scale applications using Clean Architecture, SOLID principles, SSR, and design system governance.
-- ⚙️ **Systems & Developer Tooling:** Strong focus on Linux environments, POSIX/Bash automation, reproducible configurations, and developer experience (DX) workflows.
-- 🚀 **Delivery & Automation:** Designing continuous integration pipelines and automated systems that allow engineering teams to ship with confidence and minimal friction.
+<a href="https://sanctuary-ds.github.io/playground/"><img src="https://raw.githubusercontent.com/sanctuary-ds/.github/main/brand/rose-spectrum-transparent.png" alt="The Sanctuary rose window" width="132" align="right" /></a>
+
+**[Sanctuary](https://github.com/sanctuary-ds)** is a design system of stone, glass and light that I created and maintain. It ships as design tokens first, so one source of color can theme web interfaces today and, through ports, the apps and tools around them. My [personal website](https://anthonyportugal.github.io/) is built with it.
+
+- **Four flavors**, the hours of the day: Lauds, Vespers, Compline and Matins.
+- **Twelve pigments** as accents, each re-toned per flavor and checked for WCAG AA contrast.
+- **Three glazings** for how an accent sits on a surface: pot-metal, flashed and grisaille.
+- **OKLCH** color and **DTCG** tokens: one palette, built to be ported to any app, from editors and terminals to window managers.
+
+[Playground](https://sanctuary-ds.github.io/playground/) · [Docs](https://sanctuary-ds.github.io/docs/philosophy) · [`@sanctuary-ds/tokens` on npm](https://www.npmjs.com/package/@sanctuary-ds/tokens) · [Source](https://github.com/sanctuary-ds/tokens)
+
+---
+
+### 🏛️ Focus
+
+- **Design systems & tokens:** core, semantic and component tokens that keep design and code in the same language, with typed component APIs and predictable releases.
+- **Frontend architecture:** Clean Architecture boundaries and SOLID, so domain logic outlives the framework of the year.
+- **Technical leadership:** leading product teams through multiplatform migrations, interviews and onboarding.
+- **Linux & developer experience:** reproducible workstations, shell automation and CI/CD pipelines that let a team ship without friction.
+
+Current role and full history: [anthonyportugal.github.io/#experience](https://anthonyportugal.github.io/#experience)
 
 ---
 
@@ -30,81 +47,64 @@
 
 <div align="center">
 
-<table align="center" style="margin: 0 auto; display: inline-table; width: auto;">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/30%25_less-technical_debt-a6e3a1?style=for-the-badge" alt="30 percent less technical debt"><br><sub>Clean Architecture + SOLID</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/80%25_faster-deployments-89b4fa?style=for-the-badge" alt="80 percent faster deployments"><br><sub>Bash + GitLab CI/CD Automation</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/40%25_faster-frontend_delivery-cba6f7?style=for-the-badge" alt="40 percent faster frontend delivery"><br><sub>Design System + Design Ops</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/30%25_better-UI_response-fab387?style=for-the-badge" alt="30 percent better UI response"><br><sub>Vue / TypeScript Refactoring</sub></td>
-  </tr>
-</table>
+| | |
+| :---: | :---: |
+| ![−30% technical debt](https://img.shields.io/badge/−30%25-technical_debt-8cd584?style=for-the-badge&labelColor=0d111b)<br /><sub>Clean Architecture + SOLID</sub> | ![−80% manual deployments](https://img.shields.io/badge/−80%25-manual_deployments-9bc1fb?style=for-the-badge&labelColor=0d111b)<br /><sub>GitLab CI/CD automation</sub> |
+| ![+40% frontend velocity](https://img.shields.io/badge/+40%25-frontend_velocity-d2abfb?style=for-the-badge&labelColor=0d111b)<br /><sub>Unified design system</sub> | ![−50% build time](https://img.shields.io/badge/−50%25-build_time-f6af57?style=for-the-badge&labelColor=0d111b)<br /><sub>Migration to Vite</sub> |
+| ![5 platforms](https://img.shields.io/badge/5_platforms-one_codebase-74d5b8?style=for-the-badge&labelColor=0d111b)<br /><sub>Flutter: Android, iOS, Windows, Linux, macOS</sub> | ![~7 engineers led](https://img.shields.io/badge/~7_engineers-led-fca1b8?style=for-the-badge&labelColor=0d111b)<br /><sub>Tech lead, multiplatform team</sub> |
 
 </div>
 
 ---
 
-### 🐧 Open-Source & Linux Ecosystem
+### 🐧 Workstation as Code
 
-My personal suite of modular, reproducible desktop environments and system tooling:
+Modular Linux environments, versioned and documented so they can be rebuilt from scratch.
 
-| Project | Description & Highlights | Core Stack & Technologies |
+| Project | What it is | Stack |
 | :--- | :--- | :--- |
-| [**dotfiles-mangowm**](https://github.com/anthonyportugal/dotfiles-mangowm) | **Active Daily Driver (Wayland).** Minimal dynamic tiling desktop session featured in the official MangoWM Showcase. 14 hot-swappable Catppuccin Mocha accents via atomic CLI theming. | `Wayland (wlroots)` `MangoWM` `Waybar` `Fuzzel` |
-| [**dotfiles**](https://github.com/anthonyportugal/dotfiles) | **Core Base & Orchestrator.** Modular user-space foundation with interactive CLI orchestration, 3-tier privacy model, and shared shell environment. | `GNU Stow` `Zsh / Starship` `Multi-Identity Git` `FZF` |
-| [**dotfiles-system**](https://github.com/anthonyportugal/dotfiles-system) | **System & Boot Hardening.** Reproducible system-level configs: Ly TUI display manager, non-destructive Limine bootloader theming, and Encrypted DNS-over-TLS (DoT). | `Limine Bootloader` `Ly TUI` `systemd-resolved (DoT)` |
-| [**walls**](https://github.com/anthonyportugal/walls) | **Wallpaper Manager & Asset Pipeline.** Curated WebP collection with automated CLI pipeline for image conversion, multi-monitor sync, and doctor diagnostics. | `WebP Pipeline` `swaybg / feh` `CLI Diagnostics` `FZF` |
-| [**dotfiles-bspwm**](https://github.com/anthonyportugal/dotfiles-bspwm) | *Classic X11 Session (Alternative).* Minimal, ergonomic X11 tiling desktop with dynamic Polybar detection, multi-monitor balancing, and 14 Catppuccin accents. | `X11` `BSPWM` `sxhkd` `Polybar` `Picom` |
+| [**dotfiles-mangowm**](https://github.com/anthonyportugal/dotfiles-mangowm) | **Daily driver.** Dynamic tiling Wayland session, featured in the official MangoWM showcase. | `Wayland` `MangoWM` `Waybar` `Fuzzel` |
+| [**dotfiles**](https://github.com/anthonyportugal/dotfiles) | **Core and orchestrator.** Modular user space with an interactive CLI and a 3-tier privacy model. | `GNU Stow` `Zsh` `Starship` `FZF` |
+| [**dotfiles-system**](https://github.com/anthonyportugal/dotfiles-system) | **System layer.** Ly display manager, non-destructive Limine theming and DNS-over-TLS. | `Limine` `Ly` `systemd-resolved` |
+| [**walls**](https://github.com/anthonyportugal/walls) | **Wallpaper pipeline.** Curated WebP collection with conversion, multi-monitor sync and diagnostics. | `WebP` `swaybg` `FZF` |
+| [**dotfiles-bspwm**](https://github.com/anthonyportugal/dotfiles-bspwm) | *Classic X11 alternative.* Ergonomic BSPWM session with dynamic Polybar detection. | `X11` `BSPWM` `Polybar` `Picom` |
 
 <details>
-  <summary>🖼️ <strong>Preview Wayland desktop setup (MangoWM)</strong></summary>
+  <summary>🖼️ <strong>Preview the MangoWM desktop</strong></summary>
   <br />
   <div align="center">
     <a href="https://github.com/anthonyportugal/dotfiles-mangowm">
-      <img src="https://raw.githubusercontent.com/anthonyportugal/dotfiles-mangowm/main/assets/screenshot.webp" alt="MangoWM Desktop Preview" width="85%" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/anthonyportugal/dotfiles-mangowm/main/assets/screenshot.webp" alt="MangoWM desktop preview" width="85%" />
     </a>
-    <p><em>Dynamic Wayland session powered by MangoWM and custom automation scripts.</em></p>
-  </div>
-</details>
-
-<details>
-  <summary>🖼️ <strong>Preview Classic X11 desktop setup (BSPWM)</strong></summary>
-  <br />
-  <div align="center">
-    <a href="https://github.com/anthonyportugal/dotfiles-bspwm">
-      <img src="https://raw.githubusercontent.com/anthonyportugal/dotfiles-bspwm/main/assets/screenshot.webp" alt="BSPWM Desktop Preview" width="85%" style="border-radius: 8px;" />
-    </a>
-    <p><em>Ergonomic X11 session powered by BSPWM, Polybar, Picom, and Rofi.</em></p>
   </div>
 </details>
 
 ---
 
-### 🛠️ Tech Stack
+### 🤖 How I Work with AI Agents
 
-#### Architecture & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,astro,vite,tailwind,flutter,dart&perline=10" alt="Frontend & Mobile Skills" />
-</p>
+Agents write a large share of my code. Engineering is making sure that code deserves to ship.
 
-#### Systems, Automation & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github,gitlab,docker,go,vscode&perline=10" alt="Systems & Tools" />
-</p>
+- **Spec before prompt:** every task starts from a written spec with acceptance criteria and the check that proves them.
+- **The author never approves its own work:** risky changes go to independent reviewer agents that only see the frozen diff.
+- **I own what ships:** I verify the result where it runs, sign the commits and decide when to push.
 
 ---
 
-### 📈 GitHub Activity
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,angular,astro,vite,tailwind,flutter,dart&perline=11" alt="Frontend and mobile" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,graphql,mysql,docker,aws,gitlab,githubactions,linux,arch,bash,python,go&perline=14" alt="Backend, infrastructure and tooling" />
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyportugal&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4" alt="GitHub Streak Stats" />
+Design systems, frontend architecture or Linux tooling? Let's talk at<br />
+**[anthonyportugal.github.io](https://anthonyportugal.github.io/#contact)** · **[LinkedIn](https://www.linkedin.com/in/bruceeanthonyportugalrobles/)**
 
 </div>
-
----
-
-### 📬 Connect
-
-Interested in frontend architecture, design systems, or developer tooling? Explore my interactive portfolio at [anthonyportugal.github.io](https://anthonyportugal.github.io/) or connect on [LinkedIn](https://www.linkedin.com/in/bruceeanthonyportugalrobles/).
