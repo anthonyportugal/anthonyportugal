@@ -59,24 +59,36 @@ Current role and full history: [anthonyportugal.github.io/#experience](https://a
 
 ### 🐧 Workstation as Code
 
-Modular Linux environments, versioned and documented so they can be rebuilt from scratch.
+**[dotfiles](https://github.com/anthonyportugal/dotfiles)** is my Arch Linux environment in one modular monorepo. Shell, tools, desktop, window managers and system settings are layers you choose, all driven by a single `dotfiles` command.
 
-| Project | What it is | Stack |
+<div align="center">
+  <a href="https://github.com/anthonyportugal/dotfiles/tree/main/layers/wm/mangowm">
+    <img src="https://raw.githubusercontent.com/anthonyportugal/dotfiles-mangowm/main/assets/screenshot.webp" alt="MangoWM desktop with terminal, file manager and Lazygit over a Catppuccin Mocha wallpaper" width="85%" />
+  </a>
+</div>
+
+- **Layers, not repositories:** choosing a window manager brings the desktop, CLI tools and core it requires.
+- **Fail-closed privacy:** base, private and local tiers keep work identities, signing keys and secrets out of the public repository.
+- **Safe lifecycle:** `curl` bootstrap, then `sync`, `update` and `doctor`, with CI on every pull request.
+
+| Layer | What it is | Stack |
 | :--- | :--- | :--- |
-| [**dotfiles-mangowm**](https://github.com/anthonyportugal/dotfiles-mangowm) | **Daily driver.** Dynamic tiling Wayland session, featured in the official MangoWM showcase. | `Wayland` `MangoWM` `Waybar` `Fuzzel` |
-| [**dotfiles**](https://github.com/anthonyportugal/dotfiles) | **Core and orchestrator.** Modular user space with an interactive CLI and a 3-tier privacy model. | `GNU Stow` `Zsh` `Starship` `FZF` |
-| [**dotfiles-system**](https://github.com/anthonyportugal/dotfiles-system) | **System layer.** Ly display manager, non-destructive Limine theming and DNS-over-TLS. | `Limine` `Ly` `systemd-resolved` |
-| [**walls**](https://github.com/anthonyportugal/walls) | **Wallpaper pipeline.** Curated WebP collection with conversion, multi-monitor sync and diagnostics. | `WebP` `swaybg` `FZF` |
-| [**dotfiles-bspwm**](https://github.com/anthonyportugal/dotfiles-bspwm) | *Classic X11 alternative.* Ergonomic BSPWM session with dynamic Polybar detection. | `X11` `BSPWM` `Polybar` `Picom` |
+| [**wm/mangowm**](https://github.com/anthonyportugal/dotfiles/tree/main/layers/wm/mangowm) | **Daily driver.** Wayland session, featured in the [official MangoWM showcase](https://mangowm.github.io/showcase/). | `Wayland` `Waybar` `Fuzzel` |
+| [**wm/bspwm**](https://github.com/anthonyportugal/dotfiles/tree/main/layers/wm/bspwm) | *Classic alternative.* X11 session sharing the same theme engine. | `X11` `Polybar` `Rofi` `Picom` |
+| [**core**](https://github.com/anthonyportugal/dotfiles/tree/main/layers/core) · [**cli**](https://github.com/anthonyportugal/dotfiles/tree/main/layers/cli) | Zsh, fail-closed Git and the everyday terminal tools. | `Zsh` `Starship` `Yazi` `Lazygit` |
+| [**desktop**](https://github.com/anthonyportugal/dotfiles/tree/main/layers/desktop) | Terminals, GTK preferences and the theme engine: Catppuccin Mocha with 14 accents. | `Foot` `Alacritty` `GTK` |
+| [**system**](https://github.com/anthonyportugal/dotfiles/tree/main/layers/system) | Opt-in system layer: display manager, boot theming and encrypted DNS. | `Ly` `Limine` `DNS-over-TLS` |
+| [**walls**](https://github.com/anthonyportugal/walls) | Wallpaper collection in its own repository, added with `dotfiles add walls` at a pinned commit. | `WebP` `swaybg` `feh` |
 
 <details>
-  <summary>🖼️ <strong>Preview the MangoWM desktop</strong></summary>
+  <summary>🖼️ <strong>See the wallpaper collection</strong></summary>
   <br />
-  <div align="center">
-    <a href="https://github.com/anthonyportugal/dotfiles-mangowm">
-      <img src="https://raw.githubusercontent.com/anthonyportugal/dotfiles-mangowm/main/assets/screenshot.webp" alt="MangoWM desktop preview" width="85%" />
-    </a>
-  </div>
+
+| | |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/anthonyportugal/walls/main/wallpapers/w-001.webp" alt="Castle under a crescent moon" width="380" /> | <img src="https://raw.githubusercontent.com/anthonyportugal/walls/main/wallpapers/w-002.webp" alt="Coral flowers on dark foliage" width="380" /> |
+| <img src="https://raw.githubusercontent.com/anthonyportugal/walls/main/wallpapers/w-003.webp" alt="Pink flowers on indigo foliage" width="380" /> | <img src="https://raw.githubusercontent.com/anthonyportugal/walls/main/wallpapers/w-004.webp" alt="Tree dissolving into particles at sunset" width="380" /> |
+
 </details>
 
 ---
